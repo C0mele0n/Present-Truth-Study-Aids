@@ -11,7 +11,7 @@ In this site, you will find study resources and references to compliment the stu
 
 The content for this site is ongoing. Check out our current resources below and stay tuned for more!
 
-![The Time Prophecy Chart](obsidian://open?vault=Present%20Truth%20Study%20Vault&file=Charts%20%26%20Diagrams%2FTime%20Prophecy%20Chart)
+[The Time Prophecy Chart](obsidian://open?vault=Present%20Truth%20Study%20Vault&file=Charts%20%26%20Diagrams%2FTime%20Prophecy%20Chart)
 
 
 If you have any questions about the content in the site, feel free to email us at SongofSolomon4.15@gmail.com.
