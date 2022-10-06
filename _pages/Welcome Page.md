@@ -9,22 +9,22 @@ permalink: /
 
 In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and references to compliment your study of present truth (as given by the Bible in word and symbol).
 
-The content for this site is ongoing. Check out our current resources below and stay tuned for more!
+**The content for this site is ongoing. Check out our current resources below and stay tuned for more!**
 
 [The Time Prophecy Chart](https://github.com/C0mele0n/Present-Truth-Study-Help/blob/master/Present%20Truth%20Study%20Vault/Charts%20%26%20Diagrams/Corresponding%20Chart%20Docs/The%20Time%20Prophecies.md)
 
 
 
 
-Also, check out these resource references for more helpful content:
+**Also, check out these resource references for more helpful content:**
 - [Living Waters' YouTube Page](https://www.youtube.com/channel/UCcPrZXqA_63ZOTEGFgSXjMQ) (for a great deal of helpful present truth video presentaions, and their [website](https://www.fountainsoflivingwaters.org) for additional content as well as more info about the ministry) 
 - [The Bible Handibook, by Stephen Haskell](https://m.egwwritings.org/en/book/978.4/toc) (for a wide list of organized, short, topical studies that are great for times when you dont know what to study, want to know more about a certain topic from the Bible, family worship, or just increasing your familiarity with the Bible)
 
 
-If you have any questions concerning any of the content in this site, or of Living Waters Ministry, feel free to contact us at SongofSolomon4.15@gmail.com. If you are interested in contributing content or references for this site, contact presenttruthstudyhelp@gmail.com .
+**If you have any questions concerning any of the content in this site, or of Living Waters Ministry, feel free to contact us at SongofSolomon4.15@gmail.com. If you are interested in contributing content or references for this site, contact presenttruthstudyhelp@gmail.com .**
 
 - - -
-
+# Why Should We Study Prophecy?
 29 The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 Deu 29:29
 
@@ -56,8 +56,8 @@ Mat5:6
 
 - - -
 
-We hope that this sites encourages and helps you along the way of studying and teaching the everlasting Gospel.
-May God guide, bless, and strengthen you on your journey!
+**We hope that this sites encourages and helps you along the way of studying and teaching the everlasting Gospel.
+May God guide, bless, and strengthen you on your journey!**
 
 _16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 Mat 5:16_
