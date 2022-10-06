@@ -20,5 +20,5 @@ Also, check out Living Waters' [YouTube Page](https://www.youtube.com/channel/UC
 May God guide, bless, and strengthen you on your journey!
 
 
-<a name="myfootnote1">1</a>: The content of this site is being made/hosted in Obsidian.md, pushed onto GitHub, and hosted on the web through Netify. If you would like to do the same, the template this digital garden is free, open-source, and available on GitHub here.
+<a name="myfootnote1">1</a>: The content of this site is being made/hosted in Obsidian.md, pushed onto GitHub, and hosted on the web through Netlify. If you would like to do the same, the template this digital garden is free, open-source, and available on GitHub here.
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
