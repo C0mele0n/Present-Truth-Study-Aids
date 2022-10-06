@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-In this site, you will find study resources and references to compliment the study of present truth (as given by the Bible in word and symbol).
+In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and references to compliment the study of present truth (as given by the Bible in word and symbol).
 
 The content for this site is ongoing. Check out our current resources below and stay tuned for more!
 
@@ -20,11 +20,5 @@ Also, check out Living Waters' [YouTube Page](https://www.youtube.com/channel/UC
 May God guide, bless, and strengthen you on your journey!
 
 
-
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  } >The content of this site is being made/hosted in Obsidian.md, pushed onto GitHub, and hosted on the web through Netify. If you would like to do the same, the template this digital garden is free, open-source, and available on GitHub here.
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).>
-</style>
+<a name="myfootnote1">1</a>: The content of this site is being made/hosted in Obsidian.md, pushed onto GitHub, and hosted on the web through Netify. If you would like to do the same, the template this digital garden is free, open-source, and available on GitHub here.
+The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
