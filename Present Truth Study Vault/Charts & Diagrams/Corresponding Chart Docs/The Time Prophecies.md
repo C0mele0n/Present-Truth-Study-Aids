@@ -89,5 +89,3 @@ Before Israel reached the land which God promised to Abraham, God gave them cond
 47. [[08-15-1844]] (The the beginning of the "Midnight Cry" found in Matthew 25:6)
 48. [[10-22-1844]] (end of 7 times for Judah/end of 2300/end of 1335, and the end of time prophecies)
 
-
-❗❗ If you
