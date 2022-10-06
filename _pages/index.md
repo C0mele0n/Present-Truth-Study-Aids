@@ -59,8 +59,8 @@ Mat5:6
 We hope that this sites encourages and helps you along the way of studying and teaching the everlasting Gospel.
 May God guide, bless, and strengthen you on your journey!
 
-˜16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
-Mat 5:16
+_16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+Mat 5:16_
 
 
 <a name="myfootnote1">1</a>: The content of this site is being made/hosted in Obsidian.md, pushed onto GitHub, and hosted on the web through Netlify. If you would like to do the same, the template this digital garden is free, open-source, and available on GitHub here.
