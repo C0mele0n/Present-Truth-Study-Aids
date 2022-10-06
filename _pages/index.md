@@ -23,7 +23,7 @@ Also, check out these resource references for more helpful content:
 
 If you have any questions concerning any of the content in this site, or of Living Waters Ministry, feel free to contact us at SongofSolomon4.15@gmail.com. If you are interested in contributing content or references for this site, contact presenttruthstudyhelp@gmail.com .
 
-
+- - -
 
 29 The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 Deu 29:29
@@ -54,12 +54,12 @@ Rev 19:10
 6 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
 Mat5:6
 
-
+- - -
 
 We hope that this sites encourages and helps you along the way of studying and teaching the everlasting Gospel.
 May God guide, bless, and strengthen you on your journey!
 
-16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+˜16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 Mat 5:16
 
 
