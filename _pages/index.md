@@ -10,6 +10,7 @@ permalink: /
 In this site, you will find study resources and references to compliment the study of present truth (as given by the Bible in word and symbol).
 
 The content for this site is ongoing. Check out our current resources below and stay tuned for more!
+
 ![The Time Prophecy Chart](obsidian://open?vault=Present%20Truth%20Study%20Vault&file=Charts%20%26%20Diagrams%2FTime%20Prophecy%20Chart)
 
 
