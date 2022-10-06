@@ -7,16 +7,18 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and references to compliment the study of present truth (as given by the Bible in word and symbol).
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+The content for this site is ongoing. Check out our current resources below and stay tuned for more!
 
+[The Time Prophecy Chart](https://github.com/C0mele0n/Present-Truth-Study-Help/blob/master/Present%20Truth%20Study%20Vault/Charts%20%26%20Diagrams/Corresponding%20Chart%20Docs/The%20Time%20Prophecies.md)
+
+
+If you have any questions about the content in the site, feel free to email us at SongofSolomon4.15@gmail.com.
+
+Also, check out Living Waters' [YouTube Page](https://www.youtube.com/channel/UCcPrZXqA_63ZOTEGFgSXjMQ) for a great deal of helpful present truth video presentaions, and their [website](https://www.fountainsoflivingwaters.org) for additional content as well as more info about the ministry. 
+May God guide, bless, and strengthen you on your journey!
+
+
+<a name="myfootnote1">1</a>: The content of this site is being made/hosted in Obsidian.md, pushed onto GitHub, and hosted on the web through Netlify. If you would like to do the same, the template this digital garden is free, open-source, and available on GitHub here.
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
