@@ -24,7 +24,7 @@ In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and refe
 **If you have any questions concerning any of the content in this site, or of Living Waters Ministry, feel free to contact us at SongofSolomon4.15@gmail.com. If you are interested in contributing content or references for this site, contact presenttruthstudyhelp@gmail.com .**
 
 - - -
-# Why Should We Study Prophecy?
+# Why Should We Even Study Prophecy?
 29 The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 Deu 29:29
 
