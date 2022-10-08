@@ -11,7 +11,7 @@ In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and refe
 
 **The content for this site is ongoing. Check out our current resources below and stay tuned for more!**
 
-[[Time Prophecy Chart]]
+![[Time Prophecy Chart.excalidraw]]
 
 
 
