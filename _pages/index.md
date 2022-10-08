@@ -11,7 +11,7 @@ In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and refe
 
 **The content for this site is ongoing. Check out our current resources below and stay tuned for more!**
 
-[The Time Prophecy Chart](https://github.com/C0mele0n/Present-Truth-Study-Help/blob/master/Present%20Truth%20Study%20Vault/Charts%20%26%20Diagrams/Corresponding%20Chart%20Docs/The%20Time%20Prophecies.md)
+[[Time Prophecy Chart]]
 
 
 
@@ -56,8 +56,8 @@ Mat5:6
 
 - - -
 
-**We hope that this sites encourages and helps you along the way of studying and teaching the everlasting Gospel.
-May God guide, bless, and strengthen you on your journey!**
+**We hope that, in this site, you find both encouragment and help for both studying and teaching the everlasting gospel. 
+May God guide, bless, and strengthen you in your journey!**
 
 _16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 Mat 5:16_
