@@ -42,8 +42,8 @@ Before Israel reached the land which God promised to Abraham, God gave them cond
 ❗ As you go over the materials for the dates below, you will see the use of these time-reckoning principles confirmed. Also, seeing that the existance of the 2520 prophecy has been a point of controversy amongst some, check out [this video](https://www.youtube.com/watch?v=J8XDUQ2fB28&list=PLz8q63xKec66zY8BlfOVo-6TN5u57rqqr&index=3) (which gives a good overview, including more general detail, and explores arguments for and against the prophecy). Above all, "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth." [[2 Tim 2#15]].  
 
 ### Important Dates Within the 2 seven-time periods
-1. [[723BC]] (beginning of 7 times for the tribes of Israel)
-2. [[677BC]] (beginning of the 7 times for the tribes of Judah )
+1. [[723BC]] (beginning of 7 times for the 10 tribes of Ephraim)
+2. [[677BC]] (beginning of the 7 times for the 2 tribes of Judah )
 3. [[608BC]] (Beginning of [[Jer 29#10|70 years]] of Babylonian reign)
 4. [[606BC]] (Beginning of the 70 year captivity of Judah + Rise of Mohammedanism)
 5.  [[538BC]] (Babylon's fall at the end of its 70 years) 
@@ -79,7 +79,7 @@ Before Israel reached the land which God promised to Abraham, God gave them cond
 37. [[1796]] (Bible again permitted in France)
 38. [[1789]] (The enactment of the US Constitution)
 - - - 
-40. [[1798]] (End of the 7 times for Israel, the 1260, and 1290 time periods / Arrival of the 1st Angel's message)
+40. [[1798]] (End of the 7 times for Ephraim, the 1260, and 1290 time periods / Arrival of the 1st Angel's message)
 41. [[1804]] (The scriptures were lifted up to heaven)
 42. [[1833]] (Miller received his license to preach / the stars fell)
 43. [[1838]] (Josiah Litch first predicts the fall of the Ottoman Empire)
