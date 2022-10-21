@@ -35,7 +35,7 @@ Before Israel reached the land which God promised to Abraham, God gave them cond
 
 ### General Prophetic Reckoning 
 - A Biblical month is 30 days: [[Gen 7#11]], [[Gen 7#24]], [[Gen 8#3]], [[Gen 8#4]].
-- 1 time in Lev 26 is a year: [[Lev 25#8]], [[Lev 26#34]]. (See the 4th footnote under [[1798]])
+- 1 time in Lev 26 is a year: [[Lev 25#8]], [[Lev 26#34]] (compare [[Rev 12#6]] and [[Rev 12#14]]. Also see the 4th footnote under [[1798]]).
 - Day for a year principle: [[Lev 25#4]], [[Num 14#34]], [[Ezek 4#6]], [[Gen 29#27]]. (See the 5th footnote under [[1798]])
 > So: 30 days x 12 months is 360 days per Biblical year. 7 times 360 days is 2520 days. With the day for a year principle, 2520 days can be interpreted as 2520 literal years. As we put the other prophetic periods together, we will see even more that this is the case.
 

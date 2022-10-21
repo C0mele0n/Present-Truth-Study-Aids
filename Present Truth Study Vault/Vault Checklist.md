@@ -12,3 +12,7 @@ General
 - [ ] Make vault accesable on the Obsidian of other devices like my iphone
 - [ ] Add an image to the welcome page(?)
 - [ ] Push and deploy all changes
+
+Specific
+- [ ] Come back to prove how a time is 1 year
+- [ ] Finish reviewing, fleshing out info, and referenceing fulfilled scriptures for earlier pages (+)
