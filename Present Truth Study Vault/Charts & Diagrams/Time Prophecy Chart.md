@@ -8,85 +8,85 @@ dg-publish: true
 
 
 # Text Elements
-[[723BC]] ^QhcjHTMj
+%%***>>>text element-link:[[723BC]]<<<***%%[[723BC]] ^QhcjHTMj
 
-[[677BC]] ^ZZDLJ3kJ
+%%***>>>text element-link:[[677BC]]<<<***%%[[677BC]] ^ZZDLJ3kJ
 
-[[608BC]] ^RtnRMo5e
+%%***>>>text element-link:[[608BC]]<<<***%%[[608BC]] ^RtnRMo5e
 
-[[606BC]] ^8shXmG2c
+%%***>>>text element-link:[[606BC]]<<<***%%[[606BC]] ^8shXmG2c
 
-[[538BC]] ^HdRzhoTh
+%%***>>>text element-link:[[538BC]]<<<***%%[[538BC]] ^HdRzhoTh
 
-[[536BC]] ^p6I8aZBY
+%%***>>>text element-link:[[536BC]]<<<***%%[[536BC]] ^p6I8aZBY
 
-[[457BC]] ^kMUFVXxS
+%%***>>>text element-link:[[457BC]]<<<***%%[[457BC]] ^kMUFVXxS
 
-[[408BC]] ^SaWoN2vG
+%%***>>>text element-link:[[408BC]]<<<***%%[[408BC]] ^SaWoN2vG
 
-[[332BC]] ^ubWNZTxP
+%%***>>>text element-link:[[332BC]]<<<***%%[[332BC]] ^ubWNZTxP
 
-[[164BC]] ^nwLWlZ67
+%%***>>>text element-link:[[164BC]]<<<***%%[[164BC]] ^nwLWlZ67
 
-[[158BC]] ^NJnVOvoT
+%%***>>>text element-link:[[158BC]]<<<***%%[[158BC]] ^NJnVOvoT
 
-[[63BC]] ^uEbVIb1q
+%%***>>>text element-link:[[63BC]]<<<***%%[[63BC]] ^uEbVIb1q
 
-[[27AD]] ^2hRF60h3
+%%***>>>text element-link:[[27AD]]<<<***%%[[27AD]] ^2hRF60h3
 
-[[31AD]] ^YCdLEyKr
+%%***>>>text element-link:[[31AD]]<<<***%%[[31AD]] ^YCdLEyKr
 
-[[34AD]] ^KUbI0eHY
+%%***>>>text element-link:[[34AD]]<<<***%%[[34AD]] ^KUbI0eHY
 
-[[66AD]] ^IF3F8sh3
+%%***>>>text element-link:[[66AD]]<<<***%%[[66AD]] ^IF3F8sh3
 
-[[68AD]] ^XPmGv0La
+%%***>>>text element-link:[[68AD]]<<<***%%[[68AD]] ^XPmGv0La
 
-[[70AD]] ^QKXfh12U
+%%***>>>text element-link:[[70AD]]<<<***%%[[70AD]] ^QKXfh12U
 
-[[321AD]] ^ha3tuztG
+%%***>>>text element-link:[[321AD]]<<<***%%[[321AD]] ^ha3tuztG
 
-[[330AD]] ^zfMNdnRH
+%%***>>>text element-link:[[330AD]]<<<***%%[[330AD]] ^zfMNdnRH
 
-[[490AD]] ^3mILvOpQ
+%%***>>>text element-link:[[490AD]]<<<***%%[[490AD]] ^3mILvOpQ
 
-[[493AD]] ^HjsWf0AS
+%%***>>>text element-link:[[493AD]]<<<***%%[[493AD]] ^HjsWf0AS
 
-[[496AD]] ^WJs89T2j
+%%***>>>text element-link:[[496AD]]<<<***%%[[496AD]] ^WJs89T2j
 
-[[508AD]] ^TbA5DCVr
+%%***>>>text element-link:[[508AD]]<<<***%%[[508AD]] ^TbA5DCVr
 
 [[533-534AD]] ^rYc9uTTn
 
-[[534AD]] ^pXNIZ0dk
+%%***>>>text element-link:[[534AD]]<<<***%%[[534AD]] ^pXNIZ0dk
 
-[[538AD]] ^GYE5xVqU
+%%***>>>text element-link:[[538AD]]<<<***%%[[538AD]] ^GYE5xVqU
 
-[[1299AD]] ^XZTaKUjA
+%%***>>>text element-link:[[1299AD]]<<<***%%[[1299AD]] ^XZTaKUjA
 
-[[1449AD]] ^FgbmENsN
+%%***>>>text element-link:[[1449AD]]<<<***%%[[1449AD]] ^FgbmENsN
 
-[[1755]] ^T7yHi3Q2
+%%***>>>text element-link:[[1755]]<<<***%%[[1755]] ^T7yHi3Q2
 
-[[1773]] ^Ie29oFzX
+%%***>>>text element-link:[[1773]]<<<***%%[[1773]] ^Ie29oFzX
 
-[[1780]] ^zCNgJyPA
+%%***>>>text element-link:[[1780]]<<<***%%[[1780]] ^zCNgJyPA
 
-[[1798]] ^D8TlWEQd
+%%***>>>text element-link:[[1798]]<<<***%%[[1798]] ^D8TlWEQd
 
-[[1833]] ^sEOHSPVy
+%%***>>>text element-link:[[1833]]<<<***%%[[1833]] ^sEOHSPVy
 
-[[1838]] ^b0Qxz8Bo
+%%***>>>text element-link:[[1838]]<<<***%%[[1838]] ^b0Qxz8Bo
 
-[[08-11-1840]] ^r1Y1hX4h
+%%***>>>text element-link:[[08-11-1840]]<<<***%%[[08-11-1840]] ^r1Y1hX4h
 
-[[1842]] ^yOlxNp0b
+%%***>>>text element-link:[[1842]]<<<***%%[[1842]] ^yOlxNp0b
 
-[[04-19-1843]] ^JH0VlFry
+%%***>>>text element-link:[[04-19-1843]]<<<***%%[[04-19-1843]] ^JH0VlFry
 
-[[08-15-1844]] ^T5njGyfh
+%%***>>>text element-link:[[08-15-1844]]<<<***%%[[08-15-1844]] ^T5njGyfh
 
-[[10-22-1844]] ^ZUuqVUMO
+%%***>>>text element-link:[[10-22-1844]]<<<***%%[[10-22-1844]] ^ZUuqVUMO
 
 2520 years for the 10 tribes of Israel  ^C2EbKcds
 
@@ -114,7 +114,7 @@ dg-publish: true
 
 1335 years ^N3R1YAkM
 
-[[31BC]] ^7FG9Ar7x
+%%***>>>text element-link:[[31BC]]<<<***%%[[31BC]] ^7FG9Ar7x
 
 360 years of strength for Pagan Rome ^Iy2l5BEx
 
@@ -132,11 +132,11 @@ The Time Prophecies ^O99NVqoL
 
 2 witnesses lay dead ^aUiP6SFD
 
-[[1796]] ^WLzoyADq
+%%***>>>text element-link:[[1796]]<<<***%%[[1796]] ^WLzoyADq
 
-[[1804]] ^3fBlNCpP
+%%***>>>text element-link:[[1804]]<<<***%%[[1804]] ^3fBlNCpP
 
-[[1789]] ^nCXPCYyC
+%%***>>>text element-link:[[1789]]<<<***%%[[1789]] ^nCXPCYyC
 
 -- Click on the dates to read about them and on this chart's title to access the general notes for this chart -- ^wqx5UJjp
 
@@ -150,8 +150,8 @@ The Time Prophecies ^O99NVqoL
 	"elements": [
 		{
 			"type": "arrow",
-			"version": 129,
-			"versionNonce": 1811162710,
+			"version": 130,
+			"versionNonce": 1235763790,
 			"isDeleted": false,
 			"id": "uoBYaOUPXovX7sy-c1QBx",
 			"fillStyle": "hachure",
@@ -172,7 +172,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159638,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -197,8 +197,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 755,
-			"versionNonce": 428380682,
+			"version": 756,
+			"versionNonce": 900616594,
 			"isDeleted": false,
 			"id": "Kiog7pB6SudNLXkIiOQcI",
 			"fillStyle": "hachure",
@@ -219,7 +219,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159638,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -244,8 +244,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 156,
-			"versionNonce": 243854230,
+			"version": 157,
+			"versionNonce": 4638862,
 			"isDeleted": false,
 			"id": "HFr9auj-3x4IiXUeImwXz",
 			"fillStyle": "hachure",
@@ -266,7 +266,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -287,8 +287,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 219,
-			"versionNonce": 729661642,
+			"version": 220,
+			"versionNonce": 584208210,
 			"isDeleted": false,
 			"id": "z09U6b3YtwibXGLJrHX-9",
 			"fillStyle": "hachure",
@@ -309,7 +309,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -334,8 +334,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 445,
-			"versionNonce": 617810134,
+			"version": 446,
+			"versionNonce": 1706723022,
 			"isDeleted": false,
 			"id": "EIqpKjKGWz7xz0MkLeTfl",
 			"fillStyle": "hachure",
@@ -356,7 +356,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -381,8 +381,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 167,
-			"versionNonce": 207558538,
+			"version": 168,
+			"versionNonce": 1311806738,
 			"isDeleted": false,
 			"id": "JE39GroPkVjq3zAm0Efwc",
 			"fillStyle": "hachure",
@@ -403,7 +403,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -424,8 +424,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 141,
-			"versionNonce": 1046969878,
+			"version": 142,
+			"versionNonce": 1520205070,
 			"isDeleted": false,
 			"id": "h2lOirj9yP6N7-AqHdIUn",
 			"fillStyle": "hachure",
@@ -446,7 +446,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
+			"updated": 1667449591071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -467,8 +467,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 158,
-			"versionNonce": 1550292554,
+			"version": 159,
+			"versionNonce": 155198162,
 			"isDeleted": false,
 			"id": "PK3-GE45ebkajC-fK9kwi",
 			"fillStyle": "hachure",
@@ -489,7 +489,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -510,8 +510,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 177,
-			"versionNonce": 809192278,
+			"version": 178,
+			"versionNonce": 1147513678,
 			"isDeleted": false,
 			"id": "1j_mFbTvrttfYKMUKXc2U",
 			"fillStyle": "hachure",
@@ -532,910 +532,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 193,
-			"versionNonce": 2087861514,
-			"isDeleted": false,
-			"id": "dYyP19-AT7uoedvNSmcDU",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1360,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 619585566,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 212,
-			"versionNonce": 1755541654,
-			"isDeleted": false,
-			"id": "-LUF3_0CMmL7J0BPXZ7uw",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1840,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 122042014,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 234,
-			"versionNonce": 2046430154,
-			"isDeleted": false,
-			"id": "SUtikjH1n2CftjcfqgyjJ",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2320,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1162300098,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 253,
-			"versionNonce": 1129639382,
-			"isDeleted": false,
-			"id": "Xjkb9VygPFrc77MGkUcOe",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2800,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 433473182,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 267,
-			"versionNonce": 2065302154,
-			"isDeleted": false,
-			"id": "qyM3mlUDoLYC3Tb6_owxX",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -3280,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 71056066,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 281,
-			"versionNonce": 1566884630,
-			"isDeleted": false,
-			"id": "oJ3RO9U_BHC2xof7P4tqj",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -3760,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1646068994,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 297,
-			"versionNonce": 713892170,
-			"isDeleted": false,
-			"id": "3QKIITAMUOcXW2wHtM8ZS",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -4240,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1810323266,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 150,
-			"versionNonce": 1766322262,
-			"isDeleted": false,
-			"id": "xWqSyxTaPOjHKPYbBWzwz",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 240,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1730983198,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 184,
-			"versionNonce": 598632458,
-			"isDeleted": false,
-			"id": "80kTmDM5xmSDY1rfLc7xR",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 720,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 67539678,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 207,
-			"versionNonce": 47412630,
-			"isDeleted": false,
-			"id": "IATfIcjifYqqZr7imjdMJ",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1200,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 509337694,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 229,
-			"versionNonce": 1584977610,
-			"isDeleted": false,
-			"id": "6Pyfpi9it39CVNlPLrdCO",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1680,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 124.49945813625084,
-			"seed": 449028738,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					124.49945813625084
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 167,
-			"versionNonce": 54285014,
-			"isDeleted": false,
-			"id": "Unr7mFjKrtY7vIs9cIIEC",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -240,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 876351298,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 186,
-			"versionNonce": 461860234,
-			"isDeleted": false,
-			"id": "A64Hr4xA8LddnG5Hp66q0",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -720,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 718219422,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 202,
-			"versionNonce": 1427605526,
-			"isDeleted": false,
-			"id": "4pb6pxW22FHjcp8eE3Va1",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1200,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 10090690,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 221,
-			"versionNonce": 1343564874,
-			"isDeleted": false,
-			"id": "ws5jH29uUBVZpJgeihqXc",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1680,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 542411330,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 243,
-			"versionNonce": 1213863254,
-			"isDeleted": false,
-			"id": "V1q2FLBjTKmar6Gwj8w_n",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2160,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 230242910,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 262,
-			"versionNonce": 301798154,
-			"isDeleted": false,
-			"id": "dwlTvWnX7h1dxKFujF_Nj",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2640,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1250785858,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 276,
-			"versionNonce": 1717107350,
-			"isDeleted": false,
-			"id": "I_c0In2DbrWjq0xg-bC13",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -3120,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 415976030,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 290,
-			"versionNonce": 62529994,
-			"isDeleted": false,
-			"id": "rDUozx6zGm2wZlBPJNscM",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -3600,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 501433374,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 306,
-			"versionNonce": 1170814934,
-			"isDeleted": false,
-			"id": "V44NOTKTWHbIJtKwCiVo7",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -4080,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 709768670,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159639,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 160,
-			"versionNonce": 1080514698,
-			"isDeleted": false,
-			"id": "kWobG7RKxd29i9Ayq4rEY",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 400,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1442355842,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1457,28 +554,28 @@ The Time Prophecies ^O99NVqoL
 		{
 			"type": "line",
 			"version": 194,
-			"versionNonce": 1589628182,
+			"versionNonce": 1587017874,
 			"isDeleted": false,
-			"id": "iTryI2MJg2QePRF1Hrk6L",
+			"id": "dYyP19-AT7uoedvNSmcDU",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 880,
+			"x": -1360,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 327619074,
+			"seed": 619585566,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1499,29 +596,416 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 218,
-			"versionNonce": 1203746634,
+			"version": 213,
+			"versionNonce": 1903104398,
 			"isDeleted": false,
-			"id": "xVEHTduvaFALdCGxnKHXe",
+			"id": "-LUF3_0CMmL7J0BPXZ7uw",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1360,
+			"x": -1840,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
-			"height": 124.49945813625084,
-			"seed": 1847024770,
+			"height": 120,
+			"seed": 122042014,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 235,
+			"versionNonce": 1844385362,
+			"isDeleted": false,
+			"id": "SUtikjH1n2CftjcfqgyjJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2320,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1162300098,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 254,
+			"versionNonce": 2096213966,
+			"isDeleted": false,
+			"id": "Xjkb9VygPFrc77MGkUcOe",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2800,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 433473182,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 268,
+			"versionNonce": 1209826322,
+			"isDeleted": false,
+			"id": "qyM3mlUDoLYC3Tb6_owxX",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3280,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 71056066,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 282,
+			"versionNonce": 856065550,
+			"isDeleted": false,
+			"id": "oJ3RO9U_BHC2xof7P4tqj",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3760,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1646068994,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 298,
+			"versionNonce": 1259809234,
+			"isDeleted": false,
+			"id": "3QKIITAMUOcXW2wHtM8ZS",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4240,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1810323266,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 151,
+			"versionNonce": 1957073998,
+			"isDeleted": false,
+			"id": "xWqSyxTaPOjHKPYbBWzwz",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 240,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1730983198,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 185,
+			"versionNonce": 2113281938,
+			"isDeleted": false,
+			"id": "80kTmDM5xmSDY1rfLc7xR",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 720,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 67539678,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 208,
+			"versionNonce": 464181902,
+			"isDeleted": false,
+			"id": "IATfIcjifYqqZr7imjdMJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1200,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 509337694,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 230,
+			"versionNonce": 1827691858,
+			"isDeleted": false,
+			"id": "6Pyfpi9it39CVNlPLrdCO",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1680,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 124.49945813625084,
+			"seed": 449028738,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1542,72 +1026,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 239,
-			"versionNonce": 1588705878,
+			"version": 168,
+			"versionNonce": 1590450382,
 			"isDeleted": false,
-			"id": "ksTBUxy0TO1q3q6sr8mbD",
+			"id": "Unr7mFjKrtY7vIs9cIIEC",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1840,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 124.49945813625084,
-			"seed": 513752734,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					124.49945813625084
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 177,
-			"versionNonce": 1780366858,
-			"isDeleted": false,
-			"id": "tjM_I32E1iTcNOU1Y098z",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -80,
+			"x": -240,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 1220607454,
+			"seed": 876351298,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1628,29 +1069,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 196,
-			"versionNonce": 2087976854,
+			"version": 187,
+			"versionNonce": 89973522,
 			"isDeleted": false,
-			"id": "Wx9DTef5lzTtckf5zgBNO",
+			"id": "A64Hr4xA8LddnG5Hp66q0",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -560,
+			"x": -720,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 193706050,
+			"seed": 718219422,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1671,29 +1112,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 212,
-			"versionNonce": 880667850,
+			"version": 203,
+			"versionNonce": 899944206,
 			"isDeleted": false,
-			"id": "sbJ_RSzWRVIlAKOVwNeDu",
+			"id": "4pb6pxW22FHjcp8eE3Va1",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1040,
+			"x": -1200,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 1756392542,
+			"seed": 10090690,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1714,29 +1155,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 231,
-			"versionNonce": 1278975190,
+			"version": 222,
+			"versionNonce": 1907536082,
 			"isDeleted": false,
-			"id": "WpV2blaL4Bg9d32ubcDB4",
+			"id": "ws5jH29uUBVZpJgeihqXc",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1520,
+			"x": -1680,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 616674014,
+			"seed": 542411330,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1757,29 +1198,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 253,
-			"versionNonce": 1551483786,
+			"version": 244,
+			"versionNonce": 1017838926,
 			"isDeleted": false,
-			"id": "NjRaqctrH5oGDEhNfIRHC",
+			"id": "V1q2FLBjTKmar6Gwj8w_n",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2000,
+			"x": -2160,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 827630210,
+			"seed": 230242910,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1800,29 +1241,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 272,
-			"versionNonce": 329093654,
+			"version": 263,
+			"versionNonce": 1971898002,
 			"isDeleted": false,
-			"id": "K2mF9cKRYC8ugu7YflloI",
+			"id": "dwlTvWnX7h1dxKFujF_Nj",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2480,
+			"x": -2640,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 181387998,
+			"seed": 1250785858,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591072,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1843,29 +1284,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 286,
-			"versionNonce": 743227978,
+			"version": 277,
+			"versionNonce": 423240590,
 			"isDeleted": false,
-			"id": "aKuGTfIBiaOIMWYJMUlL7",
+			"id": "I_c0In2DbrWjq0xg-bC13",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2960,
+			"x": -3120,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 606835330,
+			"seed": 415976030,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591073,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1886,416 +1327,29 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 300,
-			"versionNonce": 495902550,
+			"version": 291,
+			"versionNonce": 1234576466,
 			"isDeleted": false,
-			"id": "ivb1QrHF4sKTL_COE7Np_",
+			"id": "rDUozx6zGm2wZlBPJNscM",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3440,
+			"x": -3600,
 			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 402199746,
+			"seed": 501433374,
 			"groupIds": [
 				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 316,
-			"versionNonce": 1859250442,
-			"isDeleted": false,
-			"id": "DfWO3WaXesMAlZoyYaW7q",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -3920,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 289349378,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 171,
-			"versionNonce": 241468566,
-			"isDeleted": false,
-			"id": "ZGayK0iLL0oU9WZu3sTRP",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 560,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1572294914,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 205,
-			"versionNonce": 1535391690,
-			"isDeleted": false,
-			"id": "R8s_KTLX3if15S9tZgqNO",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1040,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 430737182,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 229,
-			"versionNonce": 936608214,
-			"isDeleted": false,
-			"id": "qNH4ue0uS62EYAHv1iFjn",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1520,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 124.49945813625084,
-			"seed": 654058654,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					124.49945813625084
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 250,
-			"versionNonce": 41856650,
-			"isDeleted": false,
-			"id": "HXeqaXfTtELoMRXxHheUs",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2000,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 124.49945813625084,
-			"seed": 217055810,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					124.49945813625084
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 258,
-			"versionNonce": 1827723030,
-			"isDeleted": false,
-			"id": "cx65RAIz1NJ16Af9MiI8L",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2160,
-			"y": -4.499458136250837,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 124.49945813625084,
-			"seed": 262503490,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					124.49945813625084
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 271,
-			"versionNonce": 947670346,
-			"isDeleted": false,
-			"id": "FYdqYuG89WLa1IkHoo5da",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2320,
-			"y": -7.105427357601002e-15,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 286018756,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 287,
-			"versionNonce": 1446085718,
-			"isDeleted": false,
-			"id": "3mlNKij0FqeXmgAxVWK_a",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2480,
-			"y": -7.105427357601002e-15,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 1859321477,
-			"groupIds": [
-				"lBrTaRlVaTE2gUMYtEZPO"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					120
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 299,
-			"versionNonce": 47715338,
-			"isDeleted": false,
-			"id": "HyBGNEpyp7226AlzueTI3",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2640,
-			"y": -7.105427357601002e-15,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 120,
-			"seed": 805364554,
-			"groupIds": [
-				"wRDvJQNK40aHhe8Oue-nS"
-			],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591073,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2317,28 +1371,28 @@ The Time Prophecies ^O99NVqoL
 		{
 			"type": "line",
 			"version": 307,
-			"versionNonce": 1164609942,
+			"versionNonce": 1569358286,
 			"isDeleted": false,
-			"id": "SNDFRJrt8ICFNhHcJNALV",
+			"id": "V44NOTKTWHbIJtKwCiVo7",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2800,
-			"y": -7.105427357601002e-15,
+			"x": -4080,
+			"y": -4.499458136250837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 120,
-			"seed": 417292554,
+			"seed": 709768670,
 			"groupIds": [
-				"a-z4YevJ2DYtUSg0hjkPT"
+				"lBrTaRlVaTE2gUMYtEZPO"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159640,
+			"updated": 1667449591073,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2359,8 +1413,954 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 497,
-			"versionNonce": 1301743214,
+			"version": 161,
+			"versionNonce": 2008140306,
+			"isDeleted": false,
+			"id": "kWobG7RKxd29i9Ayq4rEY",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 400,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1442355842,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 195,
+			"versionNonce": 1823807502,
+			"isDeleted": false,
+			"id": "iTryI2MJg2QePRF1Hrk6L",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 880,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 327619074,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 219,
+			"versionNonce": 919779282,
+			"isDeleted": false,
+			"id": "xVEHTduvaFALdCGxnKHXe",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1360,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 124.49945813625084,
+			"seed": 1847024770,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					124.49945813625084
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 240,
+			"versionNonce": 1588782670,
+			"isDeleted": false,
+			"id": "ksTBUxy0TO1q3q6sr8mbD",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1840,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 124.49945813625084,
+			"seed": 513752734,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					124.49945813625084
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 178,
+			"versionNonce": 1192226194,
+			"isDeleted": false,
+			"id": "tjM_I32E1iTcNOU1Y098z",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -80,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1220607454,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 197,
+			"versionNonce": 1683811470,
+			"isDeleted": false,
+			"id": "Wx9DTef5lzTtckf5zgBNO",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -560,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 193706050,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 213,
+			"versionNonce": 1302358866,
+			"isDeleted": false,
+			"id": "sbJ_RSzWRVIlAKOVwNeDu",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1040,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1756392542,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 232,
+			"versionNonce": 728509134,
+			"isDeleted": false,
+			"id": "WpV2blaL4Bg9d32ubcDB4",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1520,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 616674014,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 254,
+			"versionNonce": 819671314,
+			"isDeleted": false,
+			"id": "NjRaqctrH5oGDEhNfIRHC",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2000,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 827630210,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 273,
+			"versionNonce": 1115267342,
+			"isDeleted": false,
+			"id": "K2mF9cKRYC8ugu7YflloI",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2480,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 181387998,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 287,
+			"versionNonce": 1949777618,
+			"isDeleted": false,
+			"id": "aKuGTfIBiaOIMWYJMUlL7",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2960,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 606835330,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 301,
+			"versionNonce": 2097041230,
+			"isDeleted": false,
+			"id": "ivb1QrHF4sKTL_COE7Np_",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3440,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 402199746,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 317,
+			"versionNonce": 340497554,
+			"isDeleted": false,
+			"id": "DfWO3WaXesMAlZoyYaW7q",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3920,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 289349378,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 172,
+			"versionNonce": 1465070990,
+			"isDeleted": false,
+			"id": "ZGayK0iLL0oU9WZu3sTRP",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 560,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1572294914,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 206,
+			"versionNonce": 1657746002,
+			"isDeleted": false,
+			"id": "R8s_KTLX3if15S9tZgqNO",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1040,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 430737182,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 230,
+			"versionNonce": 1521570766,
+			"isDeleted": false,
+			"id": "qNH4ue0uS62EYAHv1iFjn",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1520,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 124.49945813625084,
+			"seed": 654058654,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					124.49945813625084
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 251,
+			"versionNonce": 1654200338,
+			"isDeleted": false,
+			"id": "HXeqaXfTtELoMRXxHheUs",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2000,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 124.49945813625084,
+			"seed": 217055810,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591073,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					124.49945813625084
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 259,
+			"versionNonce": 20032014,
+			"isDeleted": false,
+			"id": "cx65RAIz1NJ16Af9MiI8L",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2160,
+			"y": -4.499458136250837,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 124.49945813625084,
+			"seed": 262503490,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591074,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					124.49945813625084
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 272,
+			"versionNonce": 597706194,
+			"isDeleted": false,
+			"id": "FYdqYuG89WLa1IkHoo5da",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2320,
+			"y": -7.105427357601002e-15,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 286018756,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591074,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 288,
+			"versionNonce": 432879694,
+			"isDeleted": false,
+			"id": "3mlNKij0FqeXmgAxVWK_a",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2480,
+			"y": -7.105427357601002e-15,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 1859321477,
+			"groupIds": [
+				"lBrTaRlVaTE2gUMYtEZPO"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591074,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 300,
+			"versionNonce": 519814034,
+			"isDeleted": false,
+			"id": "HyBGNEpyp7226AlzueTI3",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2640,
+			"y": -7.105427357601002e-15,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 805364554,
+			"groupIds": [
+				"wRDvJQNK40aHhe8Oue-nS"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591074,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 308,
+			"versionNonce": 744291982,
+			"isDeleted": false,
+			"id": "SNDFRJrt8ICFNhHcJNALV",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2800,
+			"y": -7.105427357601002e-15,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 120,
+			"seed": 417292554,
+			"groupIds": [
+				"a-z4YevJ2DYtUSg0hjkPT"
+			],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1667449591074,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					120
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 498,
+			"versionNonce": 316832082,
 			"isDeleted": false,
 			"id": "HDvYkiVe-jTfI9luIJSfG",
 			"fillStyle": "hachure",
@@ -2381,7 +2381,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030295975,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2402,8 +2402,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 282,
-			"versionNonce": 1698044298,
+			"version": 283,
+			"versionNonce": 1570372814,
 			"isDeleted": false,
 			"id": "oucGnyCk-1UMPq3oQHf-V",
 			"fillStyle": "hachure",
@@ -2424,7 +2424,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2449,8 +2449,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 945,
-			"versionNonce": 1140431894,
+			"version": 946,
+			"versionNonce": 1588297490,
 			"isDeleted": false,
 			"id": "jCDQJ1ZrwKiti5GlalFnq",
 			"fillStyle": "hachure",
@@ -2471,7 +2471,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2492,8 +2492,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 391,
-			"versionNonce": 1192122442,
+			"version": 392,
+			"versionNonce": 1394422542,
 			"isDeleted": false,
 			"id": "7dX3Ld1QOpKqtU2rxbwno",
 			"fillStyle": "hachure",
@@ -2514,7 +2514,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2535,8 +2535,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 216,
-			"versionNonce": 970565974,
+			"version": 217,
+			"versionNonce": 1590545618,
 			"isDeleted": false,
 			"id": "C2EbKcds",
 			"fillStyle": "hachure",
@@ -2555,7 +2555,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2570,8 +2570,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 272,
-			"versionNonce": 686866186,
+			"version": 273,
+			"versionNonce": 392143182,
 			"isDeleted": false,
 			"id": "s9yLVmbO",
 			"fillStyle": "hachure",
@@ -2590,7 +2590,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2605,8 +2605,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 717622934,
+			"version": 422,
+			"versionNonce": 1222664850,
 			"isDeleted": false,
 			"id": "2tZ4Rg4a",
 			"fillStyle": "hachure",
@@ -2625,7 +2625,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2640,8 +2640,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 233,
-			"versionNonce": 1465404874,
+			"version": 234,
+			"versionNonce": 2109360014,
 			"isDeleted": false,
 			"id": "gSTuI_hwfc2F9tsrVXDZN",
 			"fillStyle": "hachure",
@@ -2662,7 +2662,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2687,8 +2687,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 1233,
-			"versionNonce": 793594802,
+			"version": 1234,
+			"versionNonce": 127549522,
 			"isDeleted": false,
 			"id": "yAh7TdtHoTMQ9Rig2bSN9",
 			"fillStyle": "hachure",
@@ -2709,7 +2709,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030329218,
+			"updated": 1667449591074,
 			"link": "",
 			"locked": false,
 			"startBinding": null,
@@ -2734,8 +2734,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 357,
-			"versionNonce": 1582540462,
+			"version": 358,
+			"versionNonce": 107357646,
 			"isDeleted": false,
 			"id": "L5U5bsdqFJ9SGS3V4yt-K",
 			"fillStyle": "hachure",
@@ -2756,7 +2756,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030338924,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2777,8 +2777,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 250,
-			"versionNonce": 1375199510,
+			"version": 251,
+			"versionNonce": 382887442,
 			"isDeleted": false,
 			"id": "wkDyNDyABdzmzjVe_Skqd",
 			"fillStyle": "hachure",
@@ -2799,7 +2799,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2824,8 +2824,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 613,
-			"versionNonce": 1388503882,
+			"version": 614,
+			"versionNonce": 1115438094,
 			"isDeleted": false,
 			"id": "57JBVY3HS0iO4221meNkS",
 			"fillStyle": "hachure",
@@ -2846,7 +2846,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2871,8 +2871,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 122,
-			"versionNonce": 1506233942,
+			"version": 123,
+			"versionNonce": 1602212818,
 			"isDeleted": false,
 			"id": "IAF1Y0zoAprPq8QZVTjIo",
 			"fillStyle": "hachure",
@@ -2893,7 +2893,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2914,8 +2914,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 335,
-			"versionNonce": 64743946,
+			"version": 336,
+			"versionNonce": 938838606,
 			"isDeleted": false,
 			"id": "AYo_rXG9-86-ZyXFu1VDW",
 			"fillStyle": "hachure",
@@ -2936,7 +2936,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2961,8 +2961,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 365,
-			"versionNonce": 666309526,
+			"version": 366,
+			"versionNonce": 330926482,
 			"isDeleted": false,
 			"id": "P76JtBsIy1ht_nAx6yoKV",
 			"fillStyle": "hachure",
@@ -2983,7 +2983,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3008,8 +3008,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 215,
-			"versionNonce": 564533450,
+			"version": 216,
+			"versionNonce": 1168838798,
 			"isDeleted": false,
 			"id": "-wzpSXDNR9Gs3QVgghoq2",
 			"fillStyle": "hachure",
@@ -3030,7 +3030,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3051,8 +3051,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 1174155478,
+			"version": 198,
+			"versionNonce": 179734354,
 			"isDeleted": false,
 			"id": "2bjQgfUT",
 			"fillStyle": "hachure",
@@ -3071,7 +3071,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3086,8 +3086,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 522,
-			"versionNonce": 1270640522,
+			"version": 523,
+			"versionNonce": 123064014,
 			"isDeleted": false,
 			"id": "LGX76SWM",
 			"fillStyle": "hachure",
@@ -3106,7 +3106,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3121,8 +3121,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 233,
-			"versionNonce": 808166934,
+			"version": 234,
+			"versionNonce": 483249426,
 			"isDeleted": false,
 			"id": "eKn2FLT1GYSNyspkFqu2k",
 			"fillStyle": "hachure",
@@ -3143,7 +3143,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3168,8 +3168,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 1463,
-			"versionNonce": 1025906930,
+			"version": 1464,
+			"versionNonce": 965657870,
 			"isDeleted": false,
 			"id": "ZRt60y8qtHjI3QA5GzKMi",
 			"fillStyle": "hachure",
@@ -3190,7 +3190,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030311746,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3215,8 +3215,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 371,
-			"versionNonce": 1518692974,
+			"version": 372,
+			"versionNonce": 2138462930,
 			"isDeleted": false,
 			"id": "cpcpTBq9lAwDmdEK7wNq6",
 			"fillStyle": "hachure",
@@ -3237,7 +3237,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030313350,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3258,8 +3258,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 215,
-			"versionNonce": 1448711434,
+			"version": 216,
+			"versionNonce": 500101966,
 			"isDeleted": false,
 			"id": "ZfRIQESo_KWxUuwoQoOwu",
 			"fillStyle": "hachure",
@@ -3280,7 +3280,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3305,8 +3305,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 443,
-			"versionNonce": 92117142,
+			"version": 444,
+			"versionNonce": 558313618,
 			"isDeleted": false,
 			"id": "FULk3lNTAHXzIbHfAlUgk",
 			"fillStyle": "hachure",
@@ -3327,7 +3327,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3352,8 +3352,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 149,
-			"versionNonce": 1295410122,
+			"version": 150,
+			"versionNonce": 1584355726,
 			"isDeleted": false,
 			"id": "bOnV3OihBaOQruXpc2N9Z",
 			"fillStyle": "hachure",
@@ -3374,7 +3374,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3395,8 +3395,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 534,
-			"versionNonce": 313136598,
+			"version": 535,
+			"versionNonce": 100093522,
 			"isDeleted": false,
 			"id": "h1u_n7yoW6TNqfv2toAzP",
 			"fillStyle": "hachure",
@@ -3417,7 +3417,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3446,8 +3446,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 698,
-			"versionNonce": 1426807434,
+			"version": 699,
+			"versionNonce": 1923676110,
 			"isDeleted": false,
 			"id": "Sfe0ai81_rKtOsm84ZY9O",
 			"fillStyle": "hachure",
@@ -3468,7 +3468,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3497,8 +3497,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 107,
-			"versionNonce": 1473571606,
+			"version": 108,
+			"versionNonce": 576566290,
 			"isDeleted": false,
 			"id": "JXxZZFSA-gbdN7LiMjXhq",
 			"fillStyle": "hachure",
@@ -3519,7 +3519,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159641,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3540,8 +3540,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 454,
-			"versionNonce": 1821604170,
+			"version": 455,
+			"versionNonce": 43306510,
 			"isDeleted": false,
 			"id": "B3VVIRcuCcQYkDSeUxGCG",
 			"fillStyle": "hachure",
@@ -3562,7 +3562,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3587,8 +3587,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 185,
-			"versionNonce": 1936922710,
+			"version": 186,
+			"versionNonce": 946954706,
 			"isDeleted": false,
 			"id": "fGJQPAb3MJ33wE_btsH58",
 			"fillStyle": "hachure",
@@ -3609,7 +3609,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3630,8 +3630,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 439,
-			"versionNonce": 53067786,
+			"version": 440,
+			"versionNonce": 1261165646,
 			"isDeleted": false,
 			"id": "p-fBSdHgdFFt8tzKXILlY",
 			"fillStyle": "hachure",
@@ -3652,7 +3652,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3677,8 +3677,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 496,
-			"versionNonce": 1834589590,
+			"version": 497,
+			"versionNonce": 860444562,
 			"isDeleted": false,
 			"id": "RpH6UEtNHGnKw2497pusb",
 			"fillStyle": "hachure",
@@ -3699,7 +3699,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3724,8 +3724,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 179,
-			"versionNonce": 1690906314,
+			"version": 180,
+			"versionNonce": 38216334,
 			"isDeleted": false,
 			"id": "gtqNu5kIGSTeXH3EXvZen",
 			"fillStyle": "hachure",
@@ -3746,7 +3746,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3767,8 +3767,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 273,
-			"versionNonce": 180189910,
+			"version": 274,
+			"versionNonce": 52204882,
 			"isDeleted": false,
 			"id": "EEzkR0Yc",
 			"fillStyle": "hachure",
@@ -3796,7 +3796,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3811,8 +3811,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 180,
-			"versionNonce": 638371210,
+			"version": 181,
+			"versionNonce": 983539918,
 			"isDeleted": false,
 			"id": "POX64h5z",
 			"fillStyle": "hachure",
@@ -3831,7 +3831,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3846,8 +3846,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 255,
-			"versionNonce": 573812758,
+			"version": 256,
+			"versionNonce": 2034375442,
 			"isDeleted": false,
 			"id": "7aSYovqg",
 			"fillStyle": "hachure",
@@ -3866,7 +3866,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3881,8 +3881,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 218,
-			"versionNonce": 271549514,
+			"version": 219,
+			"versionNonce": 1204705038,
 			"isDeleted": false,
 			"id": "GOsdgV3w",
 			"fillStyle": "hachure",
@@ -3901,7 +3901,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3916,8 +3916,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 261,
-			"versionNonce": 1873886550,
+			"version": 262,
+			"versionNonce": 607185106,
 			"isDeleted": false,
 			"id": "F5VhGJ2G",
 			"fillStyle": "hachure",
@@ -3936,7 +3936,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3951,8 +3951,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 218917642,
+			"version": 229,
+			"versionNonce": 575423822,
 			"isDeleted": false,
 			"id": "Wy7QSuv3",
 			"fillStyle": "hachure",
@@ -3971,7 +3971,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591075,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3986,8 +3986,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 390,
-			"versionNonce": 1753948822,
+			"version": 391,
+			"versionNonce": 729808530,
 			"isDeleted": false,
 			"id": "u9EaCPxFGNDPxnb9wtTZK",
 			"fillStyle": "hachure",
@@ -4008,7 +4008,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4033,8 +4033,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 884,
-			"versionNonce": 320764362,
+			"version": 885,
+			"versionNonce": 1265789838,
 			"isDeleted": false,
 			"id": "yaHmw663pjBL2JrfPIQY2",
 			"fillStyle": "hachure",
@@ -4055,7 +4055,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4076,8 +4076,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 253,
-			"versionNonce": 259416022,
+			"version": 254,
+			"versionNonce": 736517202,
 			"isDeleted": false,
 			"id": "Inl7gkfJoPlIZr51EmHSK",
 			"fillStyle": "hachure",
@@ -4098,7 +4098,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4119,8 +4119,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 406,
-			"versionNonce": 293646474,
+			"version": 407,
+			"versionNonce": 830065102,
 			"isDeleted": false,
 			"id": "mMQC8G89bv9rCIOsjPb9M",
 			"fillStyle": "hachure",
@@ -4141,7 +4141,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4166,8 +4166,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 895,
-			"versionNonce": 1216869654,
+			"version": 896,
+			"versionNonce": 322634258,
 			"isDeleted": false,
 			"id": "LwqQudcWGHfnc1IUjJ6h7",
 			"fillStyle": "hachure",
@@ -4188,7 +4188,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4209,8 +4209,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 283,
-			"versionNonce": 1542328138,
+			"version": 284,
+			"versionNonce": 326852622,
 			"isDeleted": false,
 			"id": "g5waO1brQ_O_HSEI2bo94",
 			"fillStyle": "hachure",
@@ -4231,7 +4231,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4252,8 +4252,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 394,
-			"versionNonce": 758440534,
+			"version": 395,
+			"versionNonce": 2088038354,
 			"isDeleted": false,
 			"id": "hbHpUUJvay76W9g3UxDfC",
 			"fillStyle": "hachure",
@@ -4274,7 +4274,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4299,8 +4299,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 1298,
-			"versionNonce": 1349508782,
+			"version": 1299,
+			"versionNonce": 1701850702,
 			"isDeleted": false,
 			"id": "1RH0wTKo9rhgRuPWaFQrM",
 			"fillStyle": "hachure",
@@ -4321,7 +4321,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030320825,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4346,8 +4346,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 301,
-			"versionNonce": 1084877810,
+			"version": 302,
+			"versionNonce": 195765650,
 			"isDeleted": false,
 			"id": "wt-2DbkUj_n3tFzNnH5Tu",
 			"fillStyle": "hachure",
@@ -4368,7 +4368,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1665030322545,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4389,8 +4389,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 159,
-			"versionNonce": 586564810,
+			"version": 160,
+			"versionNonce": 875639950,
 			"isDeleted": false,
 			"id": "OVngM86B",
 			"fillStyle": "hachure",
@@ -4409,7 +4409,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159642,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4424,8 +4424,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1645528278,
+			"version": 171,
+			"versionNonce": 1242866514,
 			"isDeleted": false,
 			"id": "N3R1YAkM",
 			"fillStyle": "hachure",
@@ -4444,7 +4444,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4459,8 +4459,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 186,
-			"versionNonce": 170335114,
+			"version": 187,
+			"versionNonce": 158823118,
 			"isDeleted": false,
 			"id": "FP4H-jVt21yIx7s63iiXq",
 			"fillStyle": "hachure",
@@ -4481,7 +4481,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4506,8 +4506,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 236,
-			"versionNonce": 1678883350,
+			"version": 237,
+			"versionNonce": 34105618,
 			"isDeleted": false,
 			"id": "Dc2Ql-70TTOm2X61o7t_N",
 			"fillStyle": "hachure",
@@ -4528,7 +4528,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4553,8 +4553,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 125,
-			"versionNonce": 1787763274,
+			"version": 126,
+			"versionNonce": 1339812110,
 			"isDeleted": false,
 			"id": "MeQ5DwsJd2_1wIfjxBcJW",
 			"fillStyle": "hachure",
@@ -4575,7 +4575,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4596,8 +4596,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 322,
-			"versionNonce": 490604374,
+			"version": 323,
+			"versionNonce": 452818642,
 			"isDeleted": false,
 			"id": "Iy2l5BEx",
 			"fillStyle": "hachure",
@@ -4616,7 +4616,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4631,8 +4631,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 204,
-			"versionNonce": 1661550858,
+			"version": 205,
+			"versionNonce": 920098638,
 			"isDeleted": false,
 			"id": "6LsgWxCc",
 			"fillStyle": "hachure",
@@ -4651,7 +4651,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4666,8 +4666,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 452,
-			"versionNonce": 502181014,
+			"version": 453,
+			"versionNonce": 1972030610,
 			"isDeleted": false,
 			"id": "-ORLnrwlJr3VPcMKIc-El",
 			"fillStyle": "hachure",
@@ -4688,7 +4688,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4713,8 +4713,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 473,
-			"versionNonce": 2131791818,
+			"version": 474,
+			"versionNonce": 381910414,
 			"isDeleted": false,
 			"id": "JcmuvMYcjEfWYwmlB2Gly",
 			"fillStyle": "hachure",
@@ -4735,7 +4735,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4760,8 +4760,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 490,
-			"versionNonce": 601401814,
+			"version": 491,
+			"versionNonce": 1197959762,
 			"isDeleted": false,
 			"id": "GsD3KJVZ88ioMnMFI2fcl",
 			"fillStyle": "hachure",
@@ -4782,7 +4782,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4807,8 +4807,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 193,
-			"versionNonce": 583009930,
+			"version": 194,
+			"versionNonce": 1423481806,
 			"isDeleted": false,
 			"id": "w_7kJyN7vMoJofdIEgXe_",
 			"fillStyle": "hachure",
@@ -4829,7 +4829,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4850,8 +4850,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 265,
-			"versionNonce": 1846607638,
+			"version": 266,
+			"versionNonce": 2003456018,
 			"isDeleted": false,
 			"id": "N8o7RO9lxwYRWmxlMCu4l",
 			"fillStyle": "hachure",
@@ -4872,7 +4872,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4897,8 +4897,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 320,
-			"versionNonce": 1993516362,
+			"version": 321,
+			"versionNonce": 1194324494,
 			"isDeleted": false,
 			"id": "--rCB83rqpzmEZ3-p2xC1",
 			"fillStyle": "hachure",
@@ -4919,7 +4919,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591076,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4948,8 +4948,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 160,
-			"versionNonce": 286043222,
+			"version": 161,
+			"versionNonce": 2039119314,
 			"isDeleted": false,
 			"id": "TKWGw1g54tF6HSbacZzv6",
 			"fillStyle": "hachure",
@@ -4970,7 +4970,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4991,8 +4991,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 102,
-			"versionNonce": 1419996170,
+			"version": 103,
+			"versionNonce": 415400014,
 			"isDeleted": false,
 			"id": "TAENVkSL",
 			"fillStyle": "hachure",
@@ -5020,7 +5020,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5035,8 +5035,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 252,
-			"versionNonce": 355271062,
+			"version": 253,
+			"versionNonce": 719254418,
 			"isDeleted": false,
 			"id": "AcC4mG5i",
 			"fillStyle": "hachure",
@@ -5055,7 +5055,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768165478,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5070,8 +5070,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 324,
-			"versionNonce": 1347527150,
+			"version": 325,
+			"versionNonce": 761874062,
 			"isDeleted": false,
 			"id": "O99NVqoL",
 			"fillStyle": "hachure",
@@ -5090,7 +5090,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1665030616172,
+			"updated": 1667449591077,
 			"link": "obsidian://open?vault=Present%20Truth%20Study%20Vault&file=Charts%20%26%20Diagrams%2FCorresponding%20Chart%20Docs%2FThe%20Time%20Prophecies",
 			"locked": false,
 			"fontSize": 111.46896362817075,
@@ -5105,8 +5105,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 119,
-			"versionNonce": 235630986,
+			"version": 120,
+			"versionNonce": 765374802,
 			"isDeleted": false,
 			"id": "BmvNWzMZs-QhgNqsR9jOy",
 			"fillStyle": "hachure",
@@ -5127,7 +5127,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5152,8 +5152,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 223,
-			"versionNonce": 1069925398,
+			"version": 224,
+			"versionNonce": 98387150,
 			"isDeleted": false,
 			"id": "Ftfoe9ZHfu3nJWg_Fhai0",
 			"fillStyle": "hachure",
@@ -5174,7 +5174,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5199,8 +5199,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 147,
-			"versionNonce": 1534636106,
+			"version": 148,
+			"versionNonce": 1159771922,
 			"isDeleted": false,
 			"id": "xky_P15o8MUD8tBaV_rSE",
 			"fillStyle": "hachure",
@@ -5221,7 +5221,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": "",
 			"locked": false,
 			"startBinding": null,
@@ -5242,8 +5242,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 971034966,
+			"version": 79,
+			"versionNonce": 599227150,
 			"isDeleted": false,
 			"id": "DdbPLeVt",
 			"fillStyle": "hachure",
@@ -5262,7 +5262,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5277,8 +5277,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 1533,
-			"versionNonce": 1850742538,
+			"version": 1534,
+			"versionNonce": 836502738,
 			"isDeleted": false,
 			"id": "2bYWc1GFhUmW-DmM9a0XC",
 			"fillStyle": "hachure",
@@ -5299,7 +5299,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159643,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5328,8 +5328,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "arrow",
-			"version": 1817,
-			"versionNonce": 1873294998,
+			"version": 1818,
+			"versionNonce": 1836116302,
 			"isDeleted": false,
 			"id": "bofyYWYmD8MHdRfr3iI9C",
 			"fillStyle": "hachure",
@@ -5350,7 +5350,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5379,8 +5379,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "line",
-			"version": 150,
-			"versionNonce": 1728882122,
+			"version": 151,
+			"versionNonce": 224893586,
 			"isDeleted": false,
 			"id": "zlK28eu5IwJJtKWCR-E5n",
 			"fillStyle": "hachure",
@@ -5401,7 +5401,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5422,8 +5422,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 269,
-			"versionNonce": 1506866134,
+			"version": 270,
+			"versionNonce": 308449166,
 			"isDeleted": false,
 			"id": "aUiP6SFD",
 			"fillStyle": "hachure",
@@ -5451,7 +5451,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5466,8 +5466,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 146,
-			"versionNonce": 516512906,
+			"version": 147,
+			"versionNonce": 645560402,
 			"isDeleted": false,
 			"id": "QhcjHTMj",
 			"fillStyle": "hachure",
@@ -5494,7 +5494,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": "[[723BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5509,8 +5509,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 309332246,
+			"version": 150,
+			"versionNonce": 1858432462,
 			"isDeleted": false,
 			"id": "ZZDLJ3kJ",
 			"fillStyle": "hachure",
@@ -5541,7 +5541,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": "[[677BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5556,8 +5556,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 323042122,
+			"version": 149,
+			"versionNonce": 1558945298,
 			"isDeleted": false,
 			"id": "RtnRMo5e",
 			"fillStyle": "hachure",
@@ -5584,7 +5584,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": "[[608BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5599,8 +5599,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 146,
-			"versionNonce": 687502934,
+			"version": 147,
+			"versionNonce": 1873970190,
 			"isDeleted": false,
 			"id": "8shXmG2c",
 			"fillStyle": "hachure",
@@ -5627,7 +5627,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": "[[606BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5642,8 +5642,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1389314570,
+			"version": 148,
+			"versionNonce": 2108820434,
 			"isDeleted": false,
 			"id": "HdRzhoTh",
 			"fillStyle": "hachure",
@@ -5674,7 +5674,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591077,
 			"link": "[[538BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5689,8 +5689,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 1984248726,
+			"version": 149,
+			"versionNonce": 1998770766,
 			"isDeleted": false,
 			"id": "p6I8aZBY",
 			"fillStyle": "hachure",
@@ -5717,7 +5717,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591078,
 			"link": "[[536BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5732,8 +5732,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 154,
-			"versionNonce": 1752068298,
+			"version": 155,
+			"versionNonce": 518308242,
 			"isDeleted": false,
 			"id": "kMUFVXxS",
 			"fillStyle": "hachure",
@@ -5768,7 +5768,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591078,
 			"link": "[[457BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5783,8 +5783,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 1887787222,
+			"version": 150,
+			"versionNonce": 1072650382,
 			"isDeleted": false,
 			"id": "SaWoN2vG",
 			"fillStyle": "hachure",
@@ -5815,7 +5815,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591078,
 			"link": "[[408BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5830,8 +5830,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1203357578,
+			"version": 148,
+			"versionNonce": 2075836242,
 			"isDeleted": false,
 			"id": "ubWNZTxP",
 			"fillStyle": "hachure",
@@ -5853,7 +5853,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159644,
+			"updated": 1667449591078,
 			"link": "[[332BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5868,8 +5868,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 146,
-			"versionNonce": 2135936534,
+			"version": 147,
+			"versionNonce": 1104221902,
 			"isDeleted": false,
 			"id": "nwLWlZ67",
 			"fillStyle": "hachure",
@@ -5896,7 +5896,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159644,
+			"updated": 1667449591078,
 			"link": "[[164BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5911,8 +5911,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 955008586,
+			"version": 148,
+			"versionNonce": 1351288082,
 			"isDeleted": false,
 			"id": "NJnVOvoT",
 			"fillStyle": "hachure",
@@ -5939,7 +5939,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[158BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5954,8 +5954,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 1335466838,
+			"version": 144,
+			"versionNonce": 358681870,
 			"isDeleted": false,
 			"id": "uEbVIb1q",
 			"fillStyle": "hachure",
@@ -5977,7 +5977,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[63BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -5992,8 +5992,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1155591434,
+			"version": 171,
+			"versionNonce": 919376594,
 			"isDeleted": false,
 			"id": "2hRF60h3",
 			"fillStyle": "hachure",
@@ -6028,7 +6028,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[27AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6043,8 +6043,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 179,
-			"versionNonce": 666353814,
+			"version": 180,
+			"versionNonce": 1477983054,
 			"isDeleted": false,
 			"id": "YCdLEyKr",
 			"fillStyle": "hachure",
@@ -6079,7 +6079,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[31AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6094,8 +6094,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 554875850,
+			"version": 171,
+			"versionNonce": 18245778,
 			"isDeleted": false,
 			"id": "KUbI0eHY",
 			"fillStyle": "hachure",
@@ -6130,7 +6130,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[34AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6145,8 +6145,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 996097494,
+			"version": 169,
+			"versionNonce": 273654158,
 			"isDeleted": false,
 			"id": "IF3F8sh3",
 			"fillStyle": "hachure",
@@ -6173,7 +6173,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[66AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6188,8 +6188,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 463254154,
+			"version": 174,
+			"versionNonce": 387941970,
 			"isDeleted": false,
 			"id": "XPmGv0La",
 			"fillStyle": "hachure",
@@ -6211,7 +6211,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[68AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6226,8 +6226,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 167,
-			"versionNonce": 2141524758,
+			"version": 168,
+			"versionNonce": 289423310,
 			"isDeleted": false,
 			"id": "QKXfh12U",
 			"fillStyle": "hachure",
@@ -6249,7 +6249,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[70AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6264,8 +6264,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 121229642,
+			"version": 169,
+			"versionNonce": 1371466770,
 			"isDeleted": false,
 			"id": "ha3tuztG",
 			"fillStyle": "hachure",
@@ -6287,7 +6287,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[321AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6302,8 +6302,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 2130591830,
+			"version": 174,
+			"versionNonce": 1594037774,
 			"isDeleted": false,
 			"id": "zfMNdnRH",
 			"fillStyle": "hachure",
@@ -6330,7 +6330,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591078,
 			"link": "[[330AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6345,8 +6345,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 658839562,
+			"version": 169,
+			"versionNonce": 1458280914,
 			"isDeleted": false,
 			"id": "3mILvOpQ",
 			"fillStyle": "hachure",
@@ -6368,7 +6368,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[490AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6383,8 +6383,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 759154070,
+			"version": 169,
+			"versionNonce": 311501902,
 			"isDeleted": false,
 			"id": "HjsWf0AS",
 			"fillStyle": "hachure",
@@ -6406,7 +6406,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[493AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6421,8 +6421,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 465143498,
+			"version": 169,
+			"versionNonce": 1975291794,
 			"isDeleted": false,
 			"id": "WJs89T2j",
 			"fillStyle": "hachure",
@@ -6444,7 +6444,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[496AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6459,8 +6459,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 176,
-			"versionNonce": 1000252118,
+			"version": 177,
+			"versionNonce": 1036216974,
 			"isDeleted": false,
 			"id": "TbA5DCVr",
 			"fillStyle": "hachure",
@@ -6499,7 +6499,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[508AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6514,8 +6514,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 167,
-			"versionNonce": 1295129994,
+			"version": 168,
+			"versionNonce": 40422738,
 			"isDeleted": false,
 			"id": "rYc9uTTn",
 			"fillStyle": "hachure",
@@ -6537,7 +6537,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[533-534AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6552,8 +6552,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 1823463446,
+			"version": 169,
+			"versionNonce": 1330833614,
 			"isDeleted": false,
 			"id": "pXNIZ0dk",
 			"fillStyle": "hachure",
@@ -6575,7 +6575,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[534AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6590,8 +6590,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 1491721290,
+			"version": 169,
+			"versionNonce": 843535122,
 			"isDeleted": false,
 			"id": "GYE5xVqU",
 			"fillStyle": "hachure",
@@ -6618,7 +6618,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[538AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6633,8 +6633,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 171,
-			"versionNonce": 1751672150,
+			"version": 172,
+			"versionNonce": 1993907982,
 			"isDeleted": false,
 			"id": "XZTaKUjA",
 			"fillStyle": "hachure",
@@ -6656,7 +6656,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[1299AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6671,8 +6671,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 2092679946,
+			"version": 174,
+			"versionNonce": 2010063058,
 			"isDeleted": false,
 			"id": "FgbmENsN",
 			"fillStyle": "hachure",
@@ -6703,7 +6703,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[1449AD]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6718,8 +6718,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 270355094,
+			"version": 220,
+			"versionNonce": 147688782,
 			"isDeleted": false,
 			"id": "T7yHi3Q2",
 			"fillStyle": "hachure",
@@ -6741,7 +6741,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159645,
+			"updated": 1667449591079,
 			"link": "[[1755]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6756,8 +6756,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 52613578,
+			"version": 216,
+			"versionNonce": 1586968210,
 			"isDeleted": false,
 			"id": "Ie29oFzX",
 			"fillStyle": "hachure",
@@ -6779,7 +6779,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591079,
 			"link": "[[1773]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6794,8 +6794,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 1384351702,
+			"version": 216,
+			"versionNonce": 1653257102,
 			"isDeleted": false,
 			"id": "zCNgJyPA",
 			"fillStyle": "hachure",
@@ -6817,7 +6817,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591079,
 			"link": "[[1780]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6832,8 +6832,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 398,
-			"versionNonce": 792332426,
+			"version": 399,
+			"versionNonce": 1733727314,
 			"isDeleted": false,
 			"id": "D8TlWEQd",
 			"fillStyle": "hachure",
@@ -6860,7 +6860,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159646,
+			"updated": 1667449591079,
 			"link": "[[1798]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6875,8 +6875,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 413,
-			"versionNonce": 2142248214,
+			"version": 414,
+			"versionNonce": 1313411534,
 			"isDeleted": false,
 			"id": "sEOHSPVy",
 			"fillStyle": "hachure",
@@ -6898,7 +6898,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591079,
 			"link": "[[1833]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6913,8 +6913,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 416,
-			"versionNonce": 683435850,
+			"version": 417,
+			"versionNonce": 1675901458,
 			"isDeleted": false,
 			"id": "b0Qxz8Bo",
 			"fillStyle": "hachure",
@@ -6936,7 +6936,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591079,
 			"link": "[[1838]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6951,8 +6951,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 443,
-			"versionNonce": 488114774,
+			"version": 444,
+			"versionNonce": 1730258958,
 			"isDeleted": false,
 			"id": "r1Y1hX4h",
 			"fillStyle": "hachure",
@@ -6979,7 +6979,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[08-11-1840]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6994,8 +6994,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 426,
-			"versionNonce": 1745153546,
+			"version": 427,
+			"versionNonce": 1396123602,
 			"isDeleted": false,
 			"id": "yOlxNp0b",
 			"fillStyle": "hachure",
@@ -7017,7 +7017,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[1842]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7032,8 +7032,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 375,
-			"versionNonce": 965758870,
+			"version": 376,
+			"versionNonce": 2098034254,
 			"isDeleted": false,
 			"id": "JH0VlFry",
 			"fillStyle": "hachure",
@@ -7055,7 +7055,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[04-19-1843]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7070,8 +7070,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 373,
-			"versionNonce": 571382986,
+			"version": 374,
+			"versionNonce": 1030118802,
 			"isDeleted": false,
 			"id": "T5njGyfh",
 			"fillStyle": "hachure",
@@ -7093,7 +7093,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[08-15-1844]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7108,8 +7108,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 399,
-			"versionNonce": 586553134,
+			"version": 400,
+			"versionNonce": 2028305550,
 			"isDeleted": false,
 			"id": "ZUuqVUMO",
 			"fillStyle": "hachure",
@@ -7144,7 +7144,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1665030266084,
+			"updated": 1667449591080,
 			"link": "[[10-22-1844]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7159,8 +7159,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 106,
-			"versionNonce": 880046986,
+			"version": 107,
+			"versionNonce": 262724434,
 			"isDeleted": false,
 			"id": "7FG9Ar7x",
 			"fillStyle": "hachure",
@@ -7187,7 +7187,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[31BC]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7202,8 +7202,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 155,
-			"versionNonce": 1374020118,
+			"version": 156,
+			"versionNonce": 1080212174,
 			"isDeleted": false,
 			"id": "SJTHqAod",
 			"fillStyle": "hachure",
@@ -7230,7 +7230,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[1793]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7245,8 +7245,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 292647498,
+			"version": 210,
+			"versionNonce": 2018877714,
 			"isDeleted": false,
 			"id": "WLzoyADq",
 			"fillStyle": "hachure",
@@ -7277,7 +7277,7 @@ The Time Prophecies ^O99NVqoL
 					"type": "arrow"
 				}
 			],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[1796]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7292,8 +7292,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 239939414,
+			"version": 221,
+			"versionNonce": 438186254,
 			"isDeleted": false,
 			"id": "3fBlNCpP",
 			"fillStyle": "hachure",
@@ -7314,7 +7314,7 @@ The Time Prophecies ^O99NVqoL
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[1804]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7329,8 +7329,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 59,
-			"versionNonce": 736139530,
+			"version": 60,
+			"versionNonce": 1122217682,
 			"isDeleted": false,
 			"id": "nCXPCYyC",
 			"fillStyle": "hachure",
@@ -7349,7 +7349,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1664768159646,
+			"updated": 1667449591080,
 			"link": "[[1789]]",
 			"locked": false,
 			"fontSize": 20,
@@ -7364,8 +7364,8 @@ The Time Prophecies ^O99NVqoL
 		},
 		{
 			"type": "text",
-			"version": 206,
-			"versionNonce": 988188334,
+			"version": 437,
+			"versionNonce": 294707022,
 			"isDeleted": false,
 			"id": "wqx5UJjp",
 			"fillStyle": "hachure",
@@ -7384,7 +7384,7 @@ The Time Prophecies ^O99NVqoL
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1665030533704,
+			"updated": 1667449591081,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
