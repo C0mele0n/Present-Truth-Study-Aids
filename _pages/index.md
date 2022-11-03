@@ -18,7 +18,7 @@ In this site<sup>[1](#myfootnote1)</sup>, you will find study resources and refe
 
 **Also, check out these resource references for more helpful content:**
 - [Living Waters' YouTube Page](https://www.youtube.com/channel/UCcPrZXqA_63ZOTEGFgSXjMQ) (for a great deal of helpful present truth video presentaions, and their [website](https://www.fountainsoflivingwaters.org) for additional content as well as more info about the ministry) 
-- [The Bible Handibook, by Stephen Haskell](https://m.egwwritings.org/en/book/978.4/toc) (for a wide list of organized, short, topical studies that are great for times when you dont know what to study, want to know more about a certain topic from the Bible, family worship, or just increasing your familiarity with the Bible)
+- [The Bible Handbook, by Stephen Haskell](https://m.egwwritings.org/en/book/978.4/toc) (for a wide list of organized, short, topical studies that are great for times when you dont know what to study, want to know more about a certain topic from the Bible, family worship, or just increasing your familiarity with the Bible)
 
 
 **If you have any questions concerning any of the content in this site, or of Living Waters Ministry, feel free to contact us at SongofSolomon4.15@gmail.com. If you are interested in contributing content or references for this site, contact presenttruthstudyhelp@gmail.com .**
